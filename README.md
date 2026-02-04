@@ -13,4 +13,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0263-ugly-number](https://github.com/HarineNatarajan/Leetcode/tree/master/0263-ugly-number) |
+## String
+|  |
+| ------- |
+| [0434-number-of-segments-in-a-string](https://github.com/HarineNatarajan/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 <!---LeetCode Topics End-->
