@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0434-number-of-segments-in-a-string](https://github.com/HarineNatarajan/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/HarineNatarajan/Leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0824-goat-latin](https://github.com/HarineNatarajan/Leetcode/tree/master/0824-goat-latin) |
 ## Two Pointers
 |  |
 | ------- |
