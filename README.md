@@ -30,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/HarineNatarajan/Leetcode/tree/master/0680-valid-palindrome-ii) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/HarineNatarajan/Leetcode/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
